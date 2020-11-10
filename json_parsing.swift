@@ -1,4 +1,4 @@
-truct details: Decodable {
+struct details: Decodable {
     var name: String
     var description: String
     var courses: [allItems]
